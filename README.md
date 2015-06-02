@@ -1,4 +1,4 @@
 # LocalGovtGits
-A git dedicated to one person teams in NZ local government.
+A git dedicated to small digital teams in councils and other government organisations.
 
 Share your ideas, code and visions.
